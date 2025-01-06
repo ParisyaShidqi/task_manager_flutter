@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "652870702671",
+    "project_id": "task-manager-ba88f",
+    "storage_bucket": "task-manager-ba88f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652870702671:android:ab956e2533fca0f1bdfc3a",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652870702671-ihf7jb8a8r03ciklpuv6t3k46vrricjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcD1ETMVaRXNqNP7izwL00a_NfDksiRBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652870702671-ihf7jb8a8r03ciklpuv6t3k46vrricjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652870702671-si9vsojdci7v508sfdlit3bp7019f2nk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652870702671:android:f81c74d5c28597b8bdfc3a",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652870702671-ihf7jb8a8r03ciklpuv6t3k46vrricjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcD1ETMVaRXNqNP7izwL00a_NfDksiRBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652870702671-ihf7jb8a8r03ciklpuv6t3k46vrricjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652870702671-si9vsojdci7v508sfdlit3bp7019f2nk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
