@@ -1,16 +1,23 @@
 # task_manager_flutter
 
-A new Flutter project.
+A Flutter app to help you manage your everyday task.
 
-## Getting Started
+## App Features
 
-This project is a starting point for a Flutter application.
+- google signin
+- filter by category
+- filter by date
+- search by category or title
+- create task
+- delete task
+- update task
+- light mode & dark mode
 
-A few resources to get you started if this is your first Flutter project:
+## Instalation Steps
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. clone this project into your repository
+2. run "flutter pub get" on terminal
+3. you can run by pressing f5 or type "flutter run" on terminal
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
